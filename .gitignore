@@ -1,0 +1,78 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivos temporários
+*.log
+*.swp
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Arquivos de configuração
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs e bases de dados
+*.sqlite
+*.sqlite3
+*.mdf
+*.ldf
+
+# Pacotes NuGet
+packages/
+*.nupkg
+
+# Arquivos de saída da construção
+*.dll
+*.exe
+*.pdb
+*.log
+*.zip
+*.rar
+*.nupkg
+*.nupkg.sha512
+
+# Diretórios específicos do Visual Studio
+_ReSharper*/
+[Tt]est[Rr]esult*/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Ll]og/
+[Ll]ogs/
+[Ll]ogFiles/
+__pycache__/
+*.pyc
+
+# Visual Studio Code
+.vscode/
+.project/
+.settings/
+*.launch
+*.json
+
+# Rider
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sqlite
+*.sqlite3
+*.mdf
+*.ldf
+
